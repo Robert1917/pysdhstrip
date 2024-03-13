@@ -1,5 +1,5 @@
 # pysdhstrip
-Python SDH to Non-SDH Convertor based on nyuszika7h pysdhhstrip  (Thanks!)
+Python SDH to Non-SDH Convertor based on nyuszika7h pysdhstrip  (Thanks!)
 # pysdhstrip
 
 Intelligent [SDH/HI](https://en.wikipedia.org/wiki/Subtitles_for_the_deaf_or_hard-of-hearing) removal tool

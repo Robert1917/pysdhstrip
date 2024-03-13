@@ -3,14 +3,14 @@ name = "pysdhstrip"
 version = "0.2.0"
 description = "Intelligent SDH stripper for SRT subtitles"
 authors = [
-  { name = "nyuszika7h", email = "nyuszika7h@gmail.com" },
+  { name = "Robert1917", email = "rrmark1923@gmail.com" },
 ]
 license = { text = "MIT" }
 readme = "README.md"
-requires-python = "~= 3.9"
+requires-python = ">= 3.9"
 dependencies = [
-  "pysrt ~= 1.1",
-  "regex >= 2022.7.25",
+  "pysrt >= 1.1",
+  "regex >= 2023.12.25",
 ]
 
 [project.urls]
